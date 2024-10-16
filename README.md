@@ -211,7 +211,8 @@
 
 | SDK名称 | SDK使用目的      | 收集信息/获取权限                                            | 隐私政策链接                                           |
 | ------- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
-| TapSDK  | 提供游戏基础服务 | 读写存储权限、读取电话状态、IMSI、网络设备制造商、android ID、bssid 设备应用列表、WiFi 信息、设备版本、手机样式、系统版本 | https://developer.taptap.com/docs/sdk/start/agreement/ |
+| TapSDK  | 提供游戏基础服务 | 读写存储权限、读取电话状态、IMSI、网络设备制造商、Android ID、bssid 设备应用列表、WiFi 信息、设备版本、手机样式、系统版本 | https://developer.taptap.com/docs/sdk/start/agreement/ |
+| Unity3D | 提供游戏基础服务和个性化的服务与内容 | Android ID、设备传感器信息 | https://unity.com/cn/legal/developer-privacy-policy、https://unity.com/legal/game-player-and-app-user-privacy-policy |
 
 **六、**     **我们如何保护您的个人信息**
 
